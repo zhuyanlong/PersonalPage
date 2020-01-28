@@ -11,7 +11,7 @@
 [zh]
   languageCode = "zh-Hans"
   contentDir = "content/zh"
-  title = "主页"
+  title = "李勇"
   [zh.params]
     description = "Site description in Chinese..."
   [[zh.menu.main]]
@@ -40,13 +40,13 @@
     weight = 50
 
   [[zh.menu.main]]
-    name = "博客"
-    url = "http://data2art.com"
+    name = "领英"
+    url = "https://www.linkedin.com/in/yong-li-8322551a0"
     weight = 51
 
   # Link to a PDF of your resume/CV from the menu.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   [[zh.menu.main]]
       name = "简历"
-      url = "files/YouXinyu_Resume.pdf"
+      url = "files/YongLi_Resume.pdf"
       weight = 70
