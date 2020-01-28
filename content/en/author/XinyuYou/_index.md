@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Xinyu You"
+name = "Yong Li"
 
 # Username (this should match the folder name)
 authors = ["XinyuYou"]
@@ -9,7 +9,7 @@ authors = ["XinyuYou"]
 superuser = true
 
 # Role/position
-role = "Postgraduate Student of Computer Science"
+role = "Computer Science, M.S. University of Texas at Arlington"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -19,7 +19,7 @@ role = "Postgraduate Student of Computer Science"
 bio = "To create, to experience."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "youxinyu07@gmail.com"
+email = "dxbyongyong@gmail.com"
 
 # List (academic) interests or hobbies
 #interests = [
@@ -50,22 +50,22 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:youxinyu07@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:dxbyongyong@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/yxydiscovery"
+  link = "https://twitter.com/Sirius13121530"
 
 [[social]]
-  icon = "blogger-b"
+  icon = "linkedin"
   icon_pack = "fab"
-  link = "http://data2art.com"
+  link = "https://www.linkedin.com/in/yong-li-8322551a0"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/yogayu"
+  link = "https://github.com/VegetableCattle"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -89,17 +89,4 @@ Now, the wave of artificial intelligence is here. In simple terms, for tradition
 
 While AI gives the machine certain self-study ability, which is learnning from data, somehow like humans, learning from mistakes, iteratively reducing the probability of making mistakes. Data Science gives us new insights. It's interesting, isn't it? 
 
-This is why I fall in love with CS.
-
 ---
-What I am doing Now?
-
-- Participate in an algorithm contest with my friends.(We got 1st place in Hunan Province. The national finals will be held next month.)
-- Crafting an iOS Album APP called Mark Album. (It's on boarding! Waiting for Apple's review. If you are interested, please send me a email, I'll send you the App though testflight.)
-- Seeking for a full time job as software engineer.
-
-Done:
-
-- [x] Finished my GSoC Project!
-
-Update 09/28/2019
