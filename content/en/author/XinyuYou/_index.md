@@ -18,6 +18,23 @@ role = "Computer Science, M.S. University of Texas at Arlington"
 # Short bio (displayed in user profile at end of posts)
 bio = "To create, to experience."
 
+interests:
+- Artificial Intelligence
+- Software engineering
+- Sudoku
+
+education:
+  courses:
+  - course: M.S. in Computer Science
+    institution: University of Texas at Arlington
+    year: 2019
+  - course: MEng in Software engineering
+    institution: Beijing University of Posts and Telecommunications
+    year: 2018
+  - course: BSc in Software engineering
+    institution: YanShan University
+    year: 2014
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "dxbyongyong@gmail.com"
 
