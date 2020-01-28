@@ -18,47 +18,37 @@ role = "Computer Science, M.S. University of Texas at Arlington"
 # Short bio (displayed in user profile at end of posts)
 bio = "To create, to experience."
 
-interests:
-- Artificial Intelligence
-- Software engineering
-- Sudoku
-
-education:
-  courses:
-  - course: M.S. in Computer Science
-    institution: University of Texas at Arlington
-    year: 2019
-  - course: MEng in Software engineering
-    institution: Beijing University of Posts and Telecommunications
-    year: 2018
-  - course: BSc in Software engineering
-    institution: YanShan University
-    year: 2014
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "dxbyongyong@gmail.com"
 
 # List (academic) interests or hobbies
-#interests = [
-#  "Data Science",
-#  "Mobile Development (iOS)"
-#]
+interests = [
+ "Artificial Intelligence",
+ "Software engineering",
+ "Sudoku",
+ "Pingpong"
+]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
-#[[education.courses]]
-#  course = "National University of Defense Technology"
-  #institution = "M.S. in Computer Science and #Technology, Sep 2017 ~ Jun 2020"
-  #year = ""
+[[education.courses]]
+  course = "University of Texas at Arlington"
+  institution = "M.S. in Computer Science"
+  year = "2019"
 
-#[[education.courses]]
- # course = "Chongqing University"
-#  institution = "B.S. in Software Engineering, Sep 2013 ~ Jun 2017"
- # year = ""
+[[education.courses]]
+  course = "Beijing University of Posts and Telecommunications"
+  institution = "MEng in Software engineering"
+  year = "2018"
 
+[[education.courses]]
+  course = "YanShan University"
+  institution = "BSc in Software engineering"
+  year = "2014"
+ 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
