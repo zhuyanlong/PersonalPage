@@ -22,10 +22,12 @@ bio = "求知若渴，谦卑若愚"
 email = "dxbyongyong@gmail.com"
 
 # List (academic) interests or hobbies
-#interests = [
-#  "Data Science",
-#  "Mobile Development (iOS)"
-#]
+interests = [
+ "人工智能",
+ "软件工程",
+ "数独",
+ "乒乓球"
+]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -36,7 +38,20 @@ user_groups = ["Researchers", "Visitors"]
 #  course = "National University of Defense Technology"
   #institution = "M.S. in Computer Science and #Technology, Sep 2017 ~ Jun 2020"
   #year = ""
+[[education.courses]]
+  course = "计算机科学学术硕士学位"
+  institution = "德克萨斯大学阿灵顿分校"
+  year = "2019"
 
+[[education.courses]]
+  course = "软件工程工程硕士学位"
+  institution = "北京邮电大学"
+  year = "2018"
+
+[[education.courses]]
+  course = "软件工程学士学位"
+  institution = "燕山大学"
+  year = "2014"
 #[[education.courses]]
  # course = "Chongqing University"
 #  institution = "B.S. in Software Engineering, Sep 2013 ~ Jun 2017"
@@ -71,6 +86,11 @@ user_groups = ["Researchers", "Visitors"]
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/VegetableCattle"
+  
+[[social]]
+  icon = "cv"
+  icon_pack = "ai"
+  link = "files/cv.pdf"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
