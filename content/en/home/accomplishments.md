@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   url = ""
   #certificate_url = "https://www.coursera.org"
   date_start = "2014-09-01"
-  date_end = "2018-06-30"
+  date_end = "2018-06-10"
   description = ""
 
 [[item]]
