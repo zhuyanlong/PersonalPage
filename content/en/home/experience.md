@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-07-19"
   date_end = "2019-08-17"
   description = """
-  Design and develop an deep learning course for humanists
+  Design and develop deep learning courses to solve practical problems
   
   - The DeeCamp training camp aims to improve the practical case experience of university AI talents in industry applications, and at the same time promote the in-depth integration of production, education and research. 
   """
