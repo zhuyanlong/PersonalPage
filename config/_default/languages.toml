@@ -38,15 +38,20 @@
     name = "奖项"
     url = "#projects"
     weight = 50
+   
+  [[zh.menu.main]]
+    name = "联系方式"
+    url = "#contact"
+    weight = 60
     
   [[zh.menu.main]]
     name = "领英"
     url = "https://www.linkedin.com/in/yong-li-8322551a0"
-    weight = 51
+    weight = 70
 
   # Link to a PDF of your resume/CV from the menu.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   [[zh.menu.main]]
       name = "简历"
       url = "files/cv.pdf"
-      weight = 70
+      weight = 80
