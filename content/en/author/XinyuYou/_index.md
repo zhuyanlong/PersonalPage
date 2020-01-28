@@ -35,18 +35,18 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "University of Texas at Arlington"
-  institution = "M.S. in Computer Science"
+  course = "M.S. in Computer Science"
+  institution = "University of Texas at Arlington"
   year = "2019"
 
 [[education.courses]]
-  course = "Beijing University of Posts and Telecommunications"
-  institution = "MEng in Software engineering"
+  course = "MEng in Software engineering"
+  institution = "Beijing University of Posts and Telecommunications"
   year = "2018"
 
 [[education.courses]]
-  course = "YanShan University"
-  institution = "BSc in Software engineering"
+  course = "BSc in Software engineering"
+  institution = "YanShan University"
   year = "2014"
  
 # Social/Academic Networking
