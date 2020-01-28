@@ -14,5 +14,5 @@ summary = "This is my DeeCamp Summer of 2019 Project(part).The goal of this proj
 tags = ["AI"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/Yogayu/DeepLearningCourse"
+external_link = "https://github.com/VegetableCattle/haptre"
 +++
