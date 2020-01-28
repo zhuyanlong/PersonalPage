@@ -47,8 +47,8 @@ date_format = "Jan 2006"
   company = "TAL Education Group"
   company_url = "https://www.100tal.com/"
   location = "Beijing, China"
-  date_start = "2019-03"
-  date_end = "2018-11"
+  date_start = "2019-03-01"
+  date_end = "2018-11-20"
   description = """
   - AI-LAB Data Platform Division
   - Participate in the development and maintenance of data annotation platform (including SpringCloud-based audio annotation and picture annotation system, and role-based rights management PaaS system).
@@ -59,8 +59,8 @@ date_format = "Jan 2006"
   company = "Weidian Beijing"
   company_url = "https://www.weidian.com/"
   location = "Beijing, China"
-  date_start = "2018-10"
-  date_end = "2018-08"
+  date_start = "2018-10-08"
+  date_end = "2018-08-10"
   description = """
   - Payment and Points Division
   - Participated in the development of small loan projects and was responsible for the optimization of the data update cycle.
