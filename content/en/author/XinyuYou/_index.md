@@ -78,7 +78,7 @@ user_groups = ["Researchers", "Visitors"]
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[social]]
   icon = "cv"
-  icon_pack = "ai"
+  icon_pack = "fab"
   link = "files/cv.pdf"
 
 +++
