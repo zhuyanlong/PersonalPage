@@ -18,46 +18,54 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Google Summer of Code 2019"
-  company = "Participant in Red Hen Lab"
-  company_url = "https://summerofcode.withgoogle.com"
-  location = "Remote"
-  date_start = "2019-05-09"
-  date_end = "2019-08-15"
+  title = "DeeCamp artificial intelligence summer camp 2019"
+  company = "Sinovation Ventures"
+  company_url = "https://deecamp.chuangxin.com/2019"
+  location = "Beijing, China"
+  date_start = "2019-07-19"
+  date_end = "2019-08-17"
   description = """
-  Design and develop an online deep learning course for humanists
+  Design and develop an deep learning course for humanists
   
-  - More than 31,000 students registered, 5,999 of whom submitted proposal, and only 1,276 students were selected (4.1%, 16.9%).
-  - Mentor: Francis Steen, Mark Turner and Rajesh Kasturirangan
-  - Repo: https://github.com/yogayu/deepLearningCourse
+  - The DeeCamp training camp aims to improve the practical case experience of university AI talents in industry applications, and at the same time promote the in-depth integration of production, education and research. 
   """
 
 [[experience]]
-  title = "Baidu Inc."
-  company = "Research and Development Engineer Intern"
-  company_url = "https://en.wikipedia.org/wiki/Baidu"
+  title = "Algorithm Engineer Intern"
+  company = "Yonyou Software Co., Ltd."
+  company_url = "https://www.yonyou.com/"
   location = "Beijing, China"
-  date_start = "2017-04-30"
-  date_end = "2016-12-01"
+  date_start = "2019-08-16"
+  date_end = "2019-03-20"
   description = """
-  - Implemented and fixed iOS client video module related functions: video release page, live display page, video player and data log, etc
-  - Optimized and developed automatic page refresh strategy and page preload list data strategy to effectively improve user experience
+  - Data Platform Division
+  - Provide development engineers with machine learning algorithm support.Design and develop algorithms for warehouse location problems, cross-selling problems, keyword extraction problems, public opinion analysis problems, and text similarity problems.
   """
 
 [[experience]]
-  title = "Douban Inc."
-  company = "iOS Software Engineer Intern"
-  company_url = "https://www.douban.com/"
+  title = "Back End Developer Intern"
+  company = "TAL Education Group"
+  company_url = "https://www.100tal.com/"
   location = "Beijing, China"
-  date_start = "2016-07-01"
-  date_end = "2016-11-30"
+  date_start = "2019-03"
+  date_end = "2018-11"
   description = """
-  - [Participated in the douban summer camp](http://data2art.com/douban-intern.html) and shared the experience from entry to the first App on the shelves
-  - Investigated iOS hotfix tools such as JSPatch, waxPatch and Rollout, and created JSPatch hotfix Demo
-  - Developed record page related requirements: customized list display, favorites, album details, comments, etc
-  - Optimized and fixed the iPad version App: redesigned the overall UI framework, adapt 10+ page layout and interaction
+  - AI-LAB Data Platform Division
+  - Participate in the development and maintenance of data annotation platform (including SpringCloud-based audio annotation and picture annotation system, and role-based rights management PaaS system).
   """
 
+[[experience]]
+  title = "Java Software Engineer Intern"
+  company = "Weidian Beijing"
+  company_url = "https://www.weidian.com/"
+  location = "Beijing, China"
+  date_start = "2018-10"
+  date_end = "2018-08"
+  description = """
+  - Payment and Points Division
+  - Participated in the development of small loan projects and was responsible for the optimization of the data update cycle.
+  """
+  
 #[[experience]]
 #  title = "Pulse App"
 #  company = "iOS Independent Developer"
