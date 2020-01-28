@@ -39,10 +39,10 @@ subtitle = ""
   icon = "tools"
   icon_pack = "fas"
   name = "Tools"
-  description = "Git, Docker, SVN, Jupyter"
+  description = "Git 90%, Docker 70%, SVN 80%, Jupyter 70%"
 [[feature]]
   icon = "palette"
   icon_pack = "fas"
   name = "UI Design"
-  description = "Modao, Axure, Sketch, PS"
+  description = "Modao 90%, Axure 90%, Sketch 70%, PS 90%"
 +++
