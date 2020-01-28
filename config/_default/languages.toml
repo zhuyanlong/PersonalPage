@@ -36,7 +36,7 @@
 
   [[zh.menu.main]]
     name = "奖项"
-    url = "#projects"
+    url = "#accomplishments"
     weight = 50
    
   [[zh.menu.main]]
