@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "游薪渝"
+name = "李 勇"
 
 # Username (this should match the folder name)
 authors = ["XinyuYou"]
@@ -16,10 +16,10 @@ role = "Postgraduate Student of Computer Science"
 #organizations = [ { name = "National University of Defense Technology", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "去创造，去体验"
+bio = "求知若渴，谦卑若愚"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "youxinyu07@gmail.com"
+email = "dxbyongyong@gmail.com"
 
 # List (academic) interests or hobbies
 #interests = [
@@ -50,12 +50,12 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:youxinyu07@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:dxbyongyong@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/yxydiscovery"
+  link = "https://twitter.com/Sirius13121530"
 
 #[[social]]
 #  icon = "google-scholar"
@@ -63,14 +63,14 @@ user_groups = ["Researchers", "Visitors"]
 #  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
 [[social]]
-  icon = "blogger-b"
+  icon = "linkedin"
   icon_pack = "fab"
-  link = "http://data2art.com"
+  link = "https://www.linkedin.com/in/yong-li-8322551a0"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/yogayu"
+  link = "https://github.com/VegetableCattle"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -80,24 +80,5 @@ user_groups = ["Researchers", "Visitors"]
 #   link = "files/cv.pdf"
 
 +++
-你好哇，我是游薪渝，目前在国防科大读研，是一个软件工程师和成长中的数据科学家。人生格言是：去创造，去体验。
-
-与计算机结缘要从小学玩星际争霸说起，那时候的电脑还是大个头，机房还是需要穿鞋套才能进入的微机室。
-
-高中时接触智能手机，被这个小小长方形盒子吸引。凭着兴趣，选择了软件工程专业。因为很享受动手将自己的想法一点点实现的过程，大学时开始做iOS开发，完成了自己的独立应用，后来也很幸运的去到公司实习iOS开发。
-
-现在人工智能的浪潮来袭。简单说来，传统软件，大部分都是逻辑编码，每一步怎么做，最后如果判断，都靠人写命令告诉它。清晰，简明，优雅。
-
-而人工智能，给与机器一定的自我学习能力。从数据中学习，就像人类擅长的那样，从错误中吸取经验，不断迭代，降低犯错的概率。数据科学，给与我们新的洞察力。不也很好玩吗？
-
-最近我在做什么？
-
-- 和我的队友们一起愉快的参加一个算法比赛。
-- 正在完成一个iOS相册，名为马克相册。（已经提交给Apple审核！如果你感兴趣，发邮件给我吧，我会免费发送给你内版的APP）
-- 最后也是最重要的一项，我最近在找全职工作，愿一切顺利。
-
-已完成：
-
-- 顺利完成 GSoC 的项目啦。
-
-Update 09/28/2019
+李勇目前在德克萨斯大学阿灵顿分校攻读计算机科学硕士学位，是一个软件工程师和成长中的机器学习工程师。他对人工智能和软件开发具有浓厚的兴趣。他具有丰富的软件后端开发实习经验以及NLP算法和机器学习实习经验。曾参加DeeCamp人工智能夏令营参与开发计算机视觉相关项目。他的人生格言是：求知若渴，谦卑若愚。
+---
