@@ -29,7 +29,7 @@ subtitle = ""
     tag = "AI"
 
   [[content.filter_button]]
-    name = "iOS"
+    name = "Mobile"
     tag = "iOS"
   
   #[[content.filter_button]]
