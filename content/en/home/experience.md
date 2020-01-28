@@ -35,8 +35,8 @@ date_format = "Jan 2006"
   company = "Yonyou Software Co., Ltd."
   company_url = "https://www.yonyou.com/"
   location = "Beijing, China"
-  date_start = "2019-08-16"
-  date_end = "2019-03-20"
+  date_start = "2019-03-20"
+  date_end = "2019-08-16"
   description = """
   - Data Platform Division
   - Provide development engineers with machine learning algorithm support.Design and develop algorithms for warehouse location problems, cross-selling problems, keyword extraction problems, public opinion analysis problems, and text similarity problems.
@@ -47,8 +47,8 @@ date_format = "Jan 2006"
   company = "TAL Education Group"
   company_url = "https://www.100tal.com/"
   location = "Beijing, China"
-  date_start = "2019-03-01"
-  date_end = "2018-11-20"
+  date_start = "2018-11-20"
+  date_end = "2019-03-01"
   description = """
   - AI-LAB Data Platform Division
   - Participate in the development and maintenance of data annotation platform (including SpringCloud-based audio annotation and picture annotation system, and role-based rights management PaaS system).
@@ -59,8 +59,8 @@ date_format = "Jan 2006"
   company = "Weidian Beijing"
   company_url = "https://www.weidian.com/"
   location = "Beijing, China"
-  date_start = "2018-10-08"
-  date_end = "2018-08-10"
+  date_start = "2018-08-10"
+  date_end = "2018-10-08"
   description = """
   - Payment and Points Division
   - Participated in the development of small loan projects and was responsible for the optimization of the data update cycle.
