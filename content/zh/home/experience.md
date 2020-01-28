@@ -18,44 +18,52 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Google Summer of Code 2019"
-  company = "Red Hen Lab"
-  company_url = "https://summerofcode.withgoogle.com"
-  location = "远程"
-  date_start = "2019-05-09"
-  date_end = "2019-08-15"
+  title = "DeeCamp人工智能19年夏令营"
+  company = "创新工厂"
+  company_url = "https://deecamp.chuangxin.com/2019"
+  location = "北京"
+  date_start = "2019-07-19"
+  date_end = "2019-08-17"
   description = """
-  共31,000人注册参与，共提交了 5,999 份申请，其中仅 1,276 (4.1%,16.9%) 个申请被谷歌接收
+  为解决实际问题设计和开发深度学习课程
   
-  - 设计并完成一套面向人文主义者的深度学习课程（全英文）：包含深度学习感知机，前馈神经网络等基础知识，以及人文领域相关项目实践
-  - 导师：Mentor: Francis Steen, Mark Turner and Rajesh Kasturirangan
-  - 项目仓库地址：[deepLearningCourse](https://github.com/yogayu/deepLearningCourse)
+  - DeeCamp训练营旨在提高大学AI人才在行业应用中的实践案例体验，同时促进生产，教育和研究的深度整合。
   """
 
 [[experience]]
-  title = "百度"
-  company = "研发实习生"
-  company_url = "https://en.wikipedia.org/wiki/Baidu"
-  location = "中国北京"
-  date_start = "2017-04-30"
-  date_end = "2016-12-01"
+  title = "算法实习生"
+  company = "用友"
+  company_url = "https://www.yonyou.com/"
+  location = "北京"
+  date_start = "2019-03-20"
+  date_end = "2019-08-16"
   description = """
-  - 实现并修复 iOS 客户端直播和视频模块相关功能：视频发布页，直播展示页，视频播放器，数据埋点等
-  - 优化并实现直播页面自动刷新策略，和页面预加载列表数据策略，有效提高用户体验
+  - 数据平台部门
+  - 为开发工程师提供机器学习算法支持，针对仓库位置问题，交叉销售问题，关键词提取问题，舆论分析问题和文本相似性问题设计和开发算法。
   """
 
 [[experience]]
-  title = "豆瓣"
-  company = "iOS Software Engineer Intern"
-  company_url = "https://www.douban.com/"
-  location = "中国北京"
-  date_start = "2016-07-01"
-  date_end = "2016-11-30"
+  title = "后端开发实习生"
+  company = "好未来"
+  company_url = "https://www.100tal.com/"
+  location = "北京"
+  date_start = "2018-11-20"
+  date_end = "2019-03-01"
   description = """
-  - [参与豆瓣暑期夏令营，分享从入门到上架第一款App的经验](http://data2art.com/douban-intern.html)
-  - 调研 JSPatch, waxPatch 和 Rollout 等iOS 热修复工具，实现 JSPatch 热修复 Demo
-  - 实现唱片页面相关需求：自定义列表展示，收藏，专辑详情，评论等
-  - 优化并修复 iPad 版本：整体框架搭建，适配10+页面布局和交互
+  - AI-LAB 数据平台部门
+  - 参与数据注释平台的开发和维护（包括基于SpringCloud的音频注释和图片注释系统以及基于角色的权限管理PaaS系统）。
+  """
+
+[[experience]]
+  title = "Java开发实习生"
+  company = "微店"
+  company_url = "https://www.weidian.com/"
+  location = "北京"
+  date_start = "2018-08-10"
+  date_end = "2018-10-08"
+  description = """
+  - 支付与积分部门
+  - 参与了小额贷款项目的开发，并负责优化数据更新周期。
   """
 
 #[[experience]]
