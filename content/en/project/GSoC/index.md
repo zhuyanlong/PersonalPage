@@ -11,7 +11,7 @@ summary = "This is my DeeCamp Summer of 2019 Project(part).The goal of this proj
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["AI","Mobile"]
+tags = ["AI","iOS"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://github.com/VegetableCattle/haptre"
