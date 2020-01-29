@@ -4,15 +4,15 @@ date = 2016-06-01T00:00:00
 layout = "project"
 
 # Project title.
-title = "Pulse App"
+title = "Inventory management system"
 
 # Project summary to display on homepage.
-summary = """Pulse is a clean and beautiful Metronome.It helps you better your music feeling and skill.With Pulse, your play time will be much more joyful. <br>**I independently complete the whole process** from idea, design, coding, propaganda to the shelf.
+summary = """The inventory management system provides users with sufficient information and quick access to information. The mobile terminal is implemented based on the WeChat Mini Programs. The back end is implemented based on SpringBoot.
 """
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["iOS"]
+tags = ["Mobile", "School"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://pulse.data2art.com/"
+external_link = "https://github.com/VegetableCattle/CSE-5324-Software-Engineering---Team-5"
 +++
