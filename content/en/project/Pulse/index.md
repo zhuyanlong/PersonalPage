@@ -14,5 +14,5 @@ summary = """The inventory management system provides users with sufficient info
 tags = ["Mobile", "School"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/VegetableCattle/CSE-5324-Software-Engineering---Team-5"
+external_link = "https://github.com/VegetableCattle/CSE-5324-Software-Engineering-Team-5"
 +++
