@@ -28,11 +28,10 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Coursera"
+  organization = "Jupyter notebook"
   organization_url = "https://github.com/VegetableCattle/youxinyu/blob/master/static/files/Kaggle-Titanic.ipynb"
   title = "Titanic: Machine Learning from Disaster"
-  url = "https://github.com/VegetableCattle/youxinyu/blob/master/static/files/Kaggle-Titanic.ipynb"
-  jupyter_url = "https://github.com/VegetableCattle/youxinyu/blob/master/static/files/Kaggle-Titanic.ipynb"
+  url = "files/Kaggle-Titanic.ipynb"
   date_start = "2020-03-02"
   date_end = ""
   description = "Team Name:Yong Li , Ranking:482 , Grades:0.82296"
