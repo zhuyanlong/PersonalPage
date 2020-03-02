@@ -35,9 +35,9 @@ date_format = "Jan 2006"
   date_start = "2020-03-02"
   date_end = ""
   description = """
-  "Team Name:Yong Li"
-  "Ranking:482"
-  "Grades:0.82296"
+  Team Name:Yong Li
+  Ranking:482
+  Grades:0.82296
   """
 
 +++
