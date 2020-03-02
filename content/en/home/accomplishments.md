@@ -29,11 +29,15 @@ date_format = "Jan 2006"
 
 [[item]]
   #organization = "Coursera"
-  organization_url = ""
-  title = "CET 4/6"
+  organization_url = "files/Kaggle-Titanic.ipynb"
+  title = "Titanic: Machine Learning from Disaster"
   url = ""
-  date_start = "2018-06-20"
+  date_start = "2020-03-02"
   date_end = ""
-  description = ""
+  description = "Team Name:Yong Li
+
+Ranking:482
+
+Grades:0.82296"
 
 +++
