@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Awards"
+title = "Kaggle"
 subtitle = ""
 
 # Date format
@@ -29,7 +29,7 @@ date_format = "Jan 2006"
 
 [[item]]
   #organization = "Coursera"
-  organization_url = ""
+  organization_url = "https://github.com/VegetableCattle/youxinyu/blob/master/static/files/Kaggle-Titanic.ipynb"
   title = "Titanic: Machine Learning from Disaster"
   url = "files/Kaggle-Titanic.ipynb"
   date_start = "2020-03-02"
