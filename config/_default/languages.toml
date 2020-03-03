@@ -53,5 +53,5 @@
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   [[zh.menu.main]]
       name = "简历"
-      url = "files/cv2.pdf"
+      url = "files/李勇简历.pdf"
       weight = 80
