@@ -8,8 +8,6 @@ date: "2020-03-04T00:00:00Z"
 lastMod: "2019-03-08T00:00:00Z"
 featured: false
 draft: false
-
-[link to kaggle](https://www.kaggle.com/yongli6/nlp-with-disaster-tweets)
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
