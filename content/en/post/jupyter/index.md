@@ -8,17 +8,10 @@ date: "2020-03-04T00:00:00Z"
 lastMod: "2020-03-08T00:00:00Z"
 featured: false
 draft: false
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-
-
-
-image:
-  caption: ""
-  focal_point: ""
 
 
 ---
+![png](./featured.jpg)
 ```python
 import numpy as np
 import pandas as pd
