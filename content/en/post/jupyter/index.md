@@ -5,16 +5,17 @@ summary: Predict which Tweets are about real disasters and which ones are not.
 tags: []
 categories: []
 date: "2020-03-04T00:00:00Z"
-lastMod: "2019-03-08T00:00:00Z"
+lastMod: "2020-03-08T00:00:00Z"
 featured: false
 draft: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
+[link to kaggle](https://www.kaggle.com/yongli6/nlp-with-disaster-tweets)
 image:
   caption: ""
   focal_point: ""
 
-projects: []
+
 ---
 ```python
 import numpy as np
