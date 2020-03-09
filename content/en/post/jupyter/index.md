@@ -3,7 +3,7 @@ title: Real or Not? NLP with Disaster Tweets
 subtitle: Predict which Tweets are about real disasters and which ones are not.[kaggle](https://www.kaggle.com/yongli6/nlp-with-disaster-tweets)
 summary: Predict which Tweets are about real disasters and which ones are not.[kaggle](https://www.kaggle.com/yongli6/nlp-with-disaster-tweets)
 date: "2020-03-04T00:00:00Z"
-comments = false
+comments: false
 
 ---
 
