@@ -65,7 +65,7 @@ test_v = count_v.transform(test_df["text"])
 
 ```python
 clf = linear_model.RidgeClassifier()
-scores = model_selection.cross_val_score(clf, train_vectors, train_df["target"], cv=3, scoring="f1")
+scores = model_selection.cross_val_score(clf, train_v, train_df["target"], cv=3, scoring="f1")
 scores
 ```
 
@@ -73,13 +73,13 @@ predictions on our training set and build a submission for the competition.
 
 
 ```python
-clf.fit(train_vectors, train_df["target"])
+clf.fit(train_v, train_df["target"])
 sample_submission = pd.read_csv("./sample_submission.csv")
 ```
 
 
 ```python
-sample_submission["target"] = clf.predict(test_vectors)
+sample_submission["target"] = clf.predict(test_v)
 sample_submission.head()
 ```
 
