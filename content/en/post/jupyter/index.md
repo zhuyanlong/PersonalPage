@@ -15,7 +15,7 @@ image:
   
 ---
 
-![png](./featured.png)
+![png](./featur.png)
 ```python
 import numpy as np
 import pandas as pd
