@@ -4,7 +4,15 @@ subtitle: Predict which Tweets are about real disasters and which ones are not.[
 summary: Predict which Tweets are about real disasters and which ones are not.[kaggle](https://www.kaggle.com/yongli6/nlp-with-disaster-tweets)
 date: "2020-03-04T00:00:00Z"
 comments: false
+featured: false
+draft: false
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: ""
+  focal_point: ""
+  
 ---
 
 ![png](./featured.png)
