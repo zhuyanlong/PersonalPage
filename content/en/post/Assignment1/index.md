@@ -1,8 +1,7 @@
 ---
 title: Assignment 01
 subtitle: The goal of this assignment is to learn about the concept of overfitting using the Polynomial regression.
-summary: The goal of this assignment is to learn about the concept of overfitting using the Polynomial regression.  
-[Git](https://github.com/VegetableCattle/youxinyu/blob/master/content/en/post/Assignment1/li_01.ipynb)
+summary: The goal of this assignment is to learn about the concept of overfitting using the Polynomial regression.[Git](https://github.com/VegetableCattle/youxinyu/blob/master/content/en/post/Assignment1/li_01.ipynb)
 date: "2020-03-16T00:00:00Z"
 comments: false
 featured: false
