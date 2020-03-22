@@ -11,7 +11,7 @@
 [zh]
   languageCode = "zh-Hans"
   contentDir = "content/zh"
-  title = "李 勇"
+  title = "朱彦龙"
   [zh.params]
     description = "Site description in Chinese..."
   [[zh.menu.main]]
@@ -46,7 +46,7 @@
     
   [[zh.menu.main]]
     name = "领英"
-    url = "https://www.linkedin.com/in/yong-li-8322551a0"
+    url = "https://www.linkedin.com/in/yanlong-zhu-91a781110/"
     weight = 70
 
   # Link to a PDF of your resume/CV from the menu.
