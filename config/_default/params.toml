@@ -44,15 +44,15 @@ privacy_pack = false
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
 date_format = "Jan 2, 2006"
 #   Examples: "3:04 pm" or "15:04"
-time_format = "3:04 PM"
+time_format = "15:04"
 
 ############################
 ## Contact Widget setup   ##
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "dxbyongyong@gamil.com"
-phone = "6822838643"
+email = "zhuyanlongcs@hotmail.com"
+phone = "8179011266"
 address = "930 Benge Dr, Arlington, Texas, 76013, US"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
@@ -65,8 +65,8 @@ address = "930 Benge Dr, Arlington, Texas, 76013, US"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Sirius13121530"},
-  {icon = "facebook", icon_pack = "fab", name = "Facebook Me", link = "https://www.facebook.com/dxbyongyong"},
+  # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Sirius13121530"},
+  # {icon = "facebook", icon_pack = "fab", name = "Facebook Me", link = "https://www.facebook.com/dxbyongyong"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
