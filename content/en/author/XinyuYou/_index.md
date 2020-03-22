@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Yong Li"
+name = "Yanlong Zhu"
 
 # Username (this should match the folder name)
 authors = ["XinyuYou"]
@@ -9,7 +9,7 @@ authors = ["XinyuYou"]
 superuser = true
 
 # Role/position
-role = "Computer Science, M.S. University of Texas at Arlington"
+role = "Master of Science in Computer Science. University of Texas at Arlington"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -19,14 +19,14 @@ role = "Computer Science, M.S. University of Texas at Arlington"
 bio = "To create, to experience."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "dxbyongyong@gmail.com"
+email = "zhuyanlongcs@hotmail.com"
 
 # List (academic) interests or hobbies
 interests = [
- "Artificial Intelligence",
- "Software engineering",
- "Sudoku",
- "Pingpong"
+ "Algorithm",
+ "Data Mining",
+ "Runing",
+ "Music"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -46,7 +46,7 @@ user_groups = ["Researchers", "Visitors"]
 
 [[education.courses]]
   course = "BSc in Software engineering"
-  institution = "YanShan University"
+  institution = "Nanjing University of Posts and Telecommunications"
   year = "2014"
  
 # Social/Academic Networking
@@ -57,22 +57,22 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:dxbyongyong@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:zhuyanlongcs@hotmail.com"  # For a direct email link, use "mailto:test@example.org".
 
-[[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/Sirius13121530"
+# [[social]]
+#  icon = "twitter"
+#  icon_pack = "fab"
+#  link = "https://twitter.com/Sirius13121530"
 
 [[social]]
   icon = "linkedin"
   icon_pack = "fab"
-  link = "https://www.linkedin.com/in/yong-li-8322551a0"
+  link = "https://www.linkedin.com/in/yanlong-zhu-91a781110/"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/VegetableCattle"
+  link = "https://github.com/zhuyanlong"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
