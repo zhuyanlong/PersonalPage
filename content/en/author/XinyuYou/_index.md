@@ -9,7 +9,7 @@ authors = ["XinyuYou"]
 superuser = true
 
 # Role/position
-role = "Master of Science in Computer Science. University of Texas at Arlington"
+role = "M.S in Computer Science. University of Texas at Arlington"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -83,6 +83,10 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Li Yong is currently studying for a master's degree in computer science at the University of Texas at Arlington. He is a software engineer and a growing machine learning engineer. He has a strong interest in artificial intelligence and software development. He has extensive experience in software back-end development and internship experience in NLP algorithms and machine learning. He participated in the DeeCamp artificial intelligence summer camp and participated in the development of computer vision related projects. His motto in life is: Stay hungry, stay foolish.
-
+Master of Science in Computer Science
+Bachelor of Science in Software Engineering
+Strong knowledge of Algorithm
+Strong programming skills with Python
+Ability to work independently in an unstructured environment and to collaborate with others
+One year of intership experience as an algorithm engineer
 ---
