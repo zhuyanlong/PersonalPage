@@ -84,9 +84,15 @@ user_groups = ["Researchers", "Visitors"]
 +++
 
 Master of Science in Computer Science
+
 Bachelor of Science in Software Engineering
+
 Strong knowledge of Algorithm
+
 Strong programming skills with Python
+
 Ability to work independently in an unstructured environment and to collaborate with others
+
 One year of intership experience as an algorithm engineer
+
 ---
