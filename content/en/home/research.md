@@ -3,6 +3,7 @@ headless = true  # This file represents a page section.
 weight=45
 
 # ... Put Your Section Options Here (title etc.) ...
+title="Research"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
