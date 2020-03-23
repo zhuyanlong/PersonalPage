@@ -1,5 +1,6 @@
 widget = "pages"  # Use the Pages widget
 headless = true  # This file represents a page section.
+weight=45
 
 # ... Put Your Section Options Here (title etc.) ...
 
