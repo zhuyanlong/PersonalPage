@@ -3,9 +3,9 @@
 #   Refer to https://sourcethemes.com/academic/docs/language/
 
 # Configure the English version of the site.
-[en]
-  languageCode = "en-us"
-  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+# [en]
+#   languageCode = "en-us"
+#   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Uncomment the lines below to configure your website in a second language.
 [zh]
@@ -53,5 +53,5 @@
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   [[zh.menu.main]]
       name = "简历"
-      url = "files/李勇简历.pdf"
+      url = "files/朱彦龙的简历.pdf"
       weight = 80
