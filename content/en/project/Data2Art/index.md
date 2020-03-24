@@ -7,7 +7,7 @@ layout = "project"
 title = "Film recommendation system based on collaborative filtering algorithm"
 
 # Project summary to display on homepage.
-summary = "The movie recommendation system based on the Hadoop ecosystem. Recommend a movie that you may like to the user through the user's operation.The flume, hive, MapReduce, Sqoop and other technologies in the Hadoop platform are used. Among them, collaborative filtering and co-occurrence matrix algorithm are used to implement movie recommendation."
+summary = "Supervising and leading teams of programmers in software development. Using Elasticsearch to build a MovieSearch app. Investigating and using simhash algorithm to implement movie recommendations."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
