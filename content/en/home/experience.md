@@ -24,11 +24,11 @@ date_format = "Jan 2006"
   location = "Beijing, China"
   date_start = "2018-10-11"
   date_end = "2019-03-21"
-  description = """Java, Spark, Hbase, Hadoop
+  description = """
   Responsibilities include:
   
-  *Developing Hadoop/ Spark/ Map Reduce applications on HL95's cloud platform.
-  *Combining technology, intellectual property, and industry knowledge to deliver data managing solutions that help enterprises improve their customers' experiences, develop new revenue streams, and lower the costs of business. 
+  * Developing Hadoop/ Spark/ Map Reduce applications on HL95's cloud platform.
+  * Combining technology, intellectual property, and industry knowledge to deliver data managing solutions that help enterprises improve their customers' experiences, develop new revenue streams, and lower the costs of business. 
   """
 
 [[experience]]
@@ -39,42 +39,10 @@ date_format = "Jan 2006"
   date_start = "2019-03-20"
   date_end = "2019-08-16"
   description = """
-  - Data Platform Division
-  - Provide development engineers with machine learning algorithm support.Design and develop algorithms for warehouse location problems, cross-selling problems, keyword extraction problems, public opinion analysis problems, and text similarity problems.
-  """
-
-[[experience]]
-  title = "Back End Developer Intern"
-  company = "TAL Education Group"
-  company_url = "https://www.100tal.com/"
-  location = "Beijing, China"
-  date_start = "2018-11-20"
-  date_end = "2019-03-01"
-  description = """
-  - AI-LAB Data Platform Division
-  - Participate in the development and maintenance of data annotation platform (including SpringCloud-based audio annotation and picture annotation system, and role-based rights management PaaS system).
-  """
-
-[[experience]]
-  title = "Java Software Engineer Intern"
-  company = "Weidian Beijing"
-  company_url = "https://www.weidian.com/"
-  location = "Beijing, China"
-  date_start = "2018-08-10"
-  date_end = "2018-10-08"
-  description = """
-  - Payment and Points Division
-  - Participated in the development of small loan projects and was responsible for the optimization of the data update cycle.
-  """
+  Responsibilities include:
   
-#[[experience]]
-#  title = "Pulse App"
-#  company = "iOS Independent Developer"
-#  company_url = "http://pulse.data2art.com/"
-#  location = ""
-#  date_start = "2016-05-01"
-#  date_end = "2016-11-01"
-#  description = """
-#Pulse is a clean and beautiful Metronome. Independently complete the whole process from idea, design, coding, propaganda to the shelf.
-#  """
+  * Develop data analysis platform based on Spark
+  * Combining machine learning and industry knowledge to modeling to help enterprises to lower the costs of business.
+  """
+
 +++
