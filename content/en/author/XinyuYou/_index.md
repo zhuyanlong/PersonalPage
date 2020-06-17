@@ -13,20 +13,20 @@ role = "M.S in Computer Science. University of Texas at Arlington"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-#organizations = [ { name = "National University of Defense Technology", url = "" } ]
+#organizations = [ { name = "University of Texas at Arlington", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "To create, to experience."
+bio = "The mills of God grind slowly, but finely ground."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "zhuyanlongcs@hotmail.com"
+email = "zhuyanlongcs@163.com"
 
 # List (academic) interests or hobbies
 interests = [
  "Algorithm",
  "Data Mining",
+ "Machine Learning",
  "Runing",
- "Music"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -57,7 +57,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:zhuyanlongcs@hotmail.com"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:zhuyanlongcs@163.com"  # For a direct email link, use "mailto:test@example.org".
 
 # [[social]]
 #  icon = "twitter"
@@ -79,7 +79,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "cv"
   icon_pack = "ai"
-  link = "files/cv.pdf"
+  link = "static/files/cv.pdf"
 
 +++
 
