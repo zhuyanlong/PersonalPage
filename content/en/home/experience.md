@@ -18,13 +18,13 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "DeeCamp artificial intelligence summer camp 2019"
-  company = "Sinovation Ventures"
-  company_url = "https://deecamp.chuangxin.com/2019"
+  title = "Data Analysis Platform based on Spark"
+  company = "HL95"
+  company_url = "https://www.hl95.com/"
   location = "Beijing, China"
-  date_start = "2019-07-19"
-  date_end = "2019-08-17"
-  description = """
+  date_start = "2018-10-11"
+  date_end = "2019-03-21"
+  description = "Spark, Hbase, Hadoop"
   Design and develop deep learning courses to solve practical problems
   
   - The DeeCamp training camp aims to improve the practical case experience of university AI talents in industry applications, and at the same time promote the in-depth integration of production, education and research. 
