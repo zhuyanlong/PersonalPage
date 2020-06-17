@@ -24,10 +24,11 @@ date_format = "Jan 2006"
   location = "Beijing, China"
   date_start = "2018-10-11"
   date_end = "2019-03-21"
-  description = "Spark, Hbase, Hadoop"
-  Design and develop deep learning courses to solve practical problems
+  description = """Java, Spark, Hbase, Hadoop
+  Responsibilities include:
   
-  - The DeeCamp training camp aims to improve the practical case experience of university AI talents in industry applications, and at the same time promote the in-depth integration of production, education and research. 
+  *Developing Hadoop/ Spark/ Map Reduce applications on HL95's cloud platform.
+  *Combining technology, intellectual property, and industry knowledge to deliver data managing solutions that help enterprises improve their customers' experiences, develop new revenue streams, and lower the costs of business. 
   """
 
 [[experience]]
