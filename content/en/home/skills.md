@@ -18,31 +18,31 @@ subtitle = ""
   icon = "code"
   icon_pack = "fas"
   name = "Programming"
-  description = "Python 80%, Java 70%, , C++ 60%<br>Spark 80%, SQL 70%"
+  description = "Python 80%, Java 60%, C++ 60%<br>Spark 70%, SQL 70%"
   
 [[feature]]
   icon = "robot"
   icon_pack = "fas"
-  name = "Machine Learning"
-  description = "Data Mining 70%"
+  name = "Algorithm"
+  description = "Data Mining 70%, Machine Learning 60%"
 [[feature]]
   icon = "mobile-alt"
   icon_pack = "fas"
   name = "Mobile Development"
-  description = "Android 80%, WeChat Mini Programs 80%"
+  description = "Android 80%, WeChat Mini Programs 60%"
 [[feature]]
   icon = "desktop"
   icon_pack = "fas"
   name = "Web Development"
-  description = "Web Development 90%"
+  description = "Flask 70%"
 [[feature]]
   icon = "tools"
   icon_pack = "fas"
   name = "Tools"
-  description = "Git 90%, Jupyter 70%"
+  description = "Git 70%, Jupyter 70%"
 [[feature]]
   icon = "palette"
   icon_pack = "fas"
   name = "UI Design"
-  description = "Axure 90%"
+  description = "Axure 80%"
 +++
