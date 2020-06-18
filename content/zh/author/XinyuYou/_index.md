@@ -13,7 +13,7 @@ role = "计算机科学硕士研究生"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-#organizations = [ { name = "National University of Defense Technology", url = "" } ]
+#organizations = [ { name = "", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "修身养德，仰望星空"
@@ -34,10 +34,6 @@ interests = [
 user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
-#[[education.courses]]
-#  course = "National University of Defense Technology"
-  #institution = "M.S. in Computer Science and #Technology, Sep 2017 ~ Jun 2020"
-  #year = ""
 [[education.courses]]
   course = "计算机科学学术硕士"
   institution = "德克萨斯大学阿灵顿分校"
