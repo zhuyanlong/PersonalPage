@@ -16,17 +16,17 @@ role = "计算机科学硕士研究生"
 #organizations = [ { name = "National University of Defense Technology", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "求知若渴，谦卑若愚"
+bio = "修身养德，仰望星空"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "dxbyongyong@gmail.com"
+email = "zhuyanlongcs@163.com"
 
 # List (academic) interests or hobbies
 interests = [
  "算法",
  "数据挖掘",
+ "机器学习",
  "跑步",
- "音乐"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -39,17 +39,17 @@ user_groups = ["Researchers", "Visitors"]
   #institution = "M.S. in Computer Science and #Technology, Sep 2017 ~ Jun 2020"
   #year = ""
 [[education.courses]]
-  course = "计算机科学学术硕士学位"
+  course = "计算机科学学术硕士"
   institution = "德克萨斯大学阿灵顿分校"
   year = "2019"
 
 [[education.courses]]
-  course = "软件工程工程硕士学位"
+  course = "软件工程工程硕士"
   institution = "北京邮电大学"
   year = "2018"
 
 [[education.courses]]
-  course = "软件工程学士学位"
+  course = "软件工程学士"
   institution = "南京邮电大学"
   year = "2014"
 
@@ -61,7 +61,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:zhuyanlongcs@hotmail.com"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:zhuyanlongcs@163.com"  # For a direct email link, use "mailto:test@example.org".
 
 
 #[[social]]
@@ -82,7 +82,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "cv"
   icon_pack = "ai"
-  link = "files/cv2.pdf"
+  link = "static/files/cv2.pdf"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
