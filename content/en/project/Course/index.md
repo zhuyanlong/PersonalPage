@@ -13,8 +13,8 @@ summary = """
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["School","AI","Web"]
+tags = ["Big data","AI","Web"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/VegetableCattle/wifi1"
+#external_link = "https://github.com/VegetableCattle/wifi1"
 +++
