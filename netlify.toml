@@ -1,10 +1,11 @@
 [build]
-  command = "hugo"
-  publish = "public"
+ command = "hugo"
+ publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.55.2"
-  HUGO_ENABLEGITINFO = "true"
+ # 💥 关键修改：升级到较新的稳定版本，避免老版本校验和问题。
+ HUGO_VERSION = "0.121.2" 
+ HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
-  HUGO_ENV = "production"
+ HUGO_ENV = "production"
